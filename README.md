@@ -1,6 +1,6 @@
 ### Hi there, I'm Mowmita Ahmed Chowdhury [mowmitaahmed][website] 👋
 
-## I'm a Wife, Daughter, and Developer !!
+## I'm a Front End Engineer and JavaScript Developer !!
 
 - 🔭 I currently working as a Web Development intern at [Molog Media & Advertising!][mologmedia]!
 - 🌱 I’m currently learning everything 🤣
